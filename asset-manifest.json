@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tunikipatinaveen/taskgify/static/css/main.294b8957.chunk.css",
+    "main.js": "/tunikipatinaveen/taskgify/static/js/main.56f18dc2.chunk.js",
+    "main.js.map": "/tunikipatinaveen/taskgify/static/js/main.56f18dc2.chunk.js.map",
+    "runtime-main.js": "/tunikipatinaveen/taskgify/static/js/runtime-main.0dbc2cb6.js",
+    "runtime-main.js.map": "/tunikipatinaveen/taskgify/static/js/runtime-main.0dbc2cb6.js.map",
+    "static/js/2.2fd38121.chunk.js": "/tunikipatinaveen/taskgify/static/js/2.2fd38121.chunk.js",
+    "static/js/2.2fd38121.chunk.js.map": "/tunikipatinaveen/taskgify/static/js/2.2fd38121.chunk.js.map",
+    "index.html": "/tunikipatinaveen/taskgify/index.html",
+    "static/css/main.294b8957.chunk.css.map": "/tunikipatinaveen/taskgify/static/css/main.294b8957.chunk.css.map",
+    "static/js/2.2fd38121.chunk.js.LICENSE.txt": "/tunikipatinaveen/taskgify/static/js/2.2fd38121.chunk.js.LICENSE.txt",
+    "static/media/user.8f6c6dae.svg": "/tunikipatinaveen/taskgify/static/media/user.8f6c6dae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dbc2cb6.js",
+    "static/js/2.2fd38121.chunk.js",
+    "static/css/main.294b8957.chunk.css",
+    "static/js/main.56f18dc2.chunk.js"
+  ]
+}
